@@ -1,0 +1,27 @@
+d:\_documents\visual studio 2017\Projects\task-2\task-2\bin\Debug\task-2.exe.config
+d:\_documents\visual studio 2017\Projects\task-2\task-2\bin\Debug\task-2.exe
+d:\_documents\visual studio 2017\Projects\task-2\task-2\bin\Debug\task-2.pdb
+d:\_documents\visual studio 2017\Projects\task-2\task-2\obj\Debug\task-2.csprojResolveAssemblyReference.cache
+d:\_documents\visual studio 2017\Projects\task-2\task-2\obj\Debug\task_2.Form1.resources
+d:\_documents\visual studio 2017\Projects\task-2\task-2\obj\Debug\task_2.Properties.Resources.resources
+d:\_documents\visual studio 2017\Projects\task-2\task-2\obj\Debug\task-2.csproj.GenerateResource.Cache
+d:\_documents\visual studio 2017\Projects\task-2\task-2\obj\Debug\task-2.exe
+d:\_documents\visual studio 2017\Projects\task-2\task-2\obj\Debug\task-2.pdb
+C:\Users\Nolan\Desktop\task-2\task-2\bin\Debug\task-2.exe.config
+C:\Users\Nolan\Desktop\task-2\task-2\obj\Debug\task-2.exe
+C:\Users\Nolan\Desktop\task-2\task-2\obj\Debug\task-2.pdb
+C:\Users\Nolan\Desktop\task-2\task-2\bin\Debug\task-2.exe
+C:\Users\Nolan\Desktop\task-2\task-2\bin\Debug\task-2.pdb
+C:\Users\Nolan\Desktop\task-2\task-2\obj\Debug\task-2.csprojResolveAssemblyReference.cache
+C:\Users\Nolan\Desktop\task-2\task-2\obj\Debug\task_2.Form1.resources
+C:\Users\Nolan\Desktop\task-2\task-2\obj\Debug\task_2.Properties.Resources.resources
+C:\Users\Nolan\Desktop\task-2\task-2\obj\Debug\task-2.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\lab2\cg\Task2\task-2\bin\Debug\task-2.exe.config
+C:\Users\Андрей\Desktop\lab2\cg\Task2\task-2\obj\Debug\task-2.exe
+C:\Users\Андрей\Desktop\lab2\cg\Task2\task-2\obj\Debug\task-2.pdb
+C:\Users\Андрей\Desktop\lab2\cg\Task2\task-2\bin\Debug\task-2.exe
+C:\Users\Андрей\Desktop\lab2\cg\Task2\task-2\bin\Debug\task-2.pdb
+C:\Users\Андрей\Desktop\lab2\cg\Task2\task-2\obj\Debug\task-2.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\lab2\cg\Task2\task-2\obj\Debug\task_2.Form1.resources
+C:\Users\Андрей\Desktop\lab2\cg\Task2\task-2\obj\Debug\task_2.Properties.Resources.resources
+C:\Users\Андрей\Desktop\lab2\cg\Task2\task-2\obj\Debug\task-2.csproj.GenerateResource.Cache
