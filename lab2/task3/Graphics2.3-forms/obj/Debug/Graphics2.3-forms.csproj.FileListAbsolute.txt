@@ -1,0 +1,10 @@
+C:\Users\oleg\source\repos\Graphics2.3-forms\Graphics2.3-forms\bin\Debug\Graphics2.3-forms.exe.config
+C:\Users\oleg\source\repos\Graphics2.3-forms\Graphics2.3-forms\bin\Debug\Graphics2.3-forms.exe
+C:\Users\oleg\source\repos\Graphics2.3-forms\Graphics2.3-forms\bin\Debug\Graphics2.3-forms.pdb
+C:\Users\oleg\source\repos\Graphics2.3-forms\Graphics2.3-forms\obj\Debug\Graphics2.3-forms.csprojAssemblyReference.cache
+C:\Users\oleg\source\repos\Graphics2.3-forms\Graphics2.3-forms\obj\Debug\Graphics2._3_forms.Form1.resources
+C:\Users\oleg\source\repos\Graphics2.3-forms\Graphics2.3-forms\obj\Debug\Graphics2._3_forms.Properties.Resources.resources
+C:\Users\oleg\source\repos\Graphics2.3-forms\Graphics2.3-forms\obj\Debug\Graphics2.3-forms.csproj.GenerateResource.cache
+C:\Users\oleg\source\repos\Graphics2.3-forms\Graphics2.3-forms\obj\Debug\Graphics2.3-forms.csproj.CoreCompileInputs.cache
+C:\Users\oleg\source\repos\Graphics2.3-forms\Graphics2.3-forms\obj\Debug\Graphics2.3-forms.exe
+C:\Users\oleg\source\repos\Graphics2.3-forms\Graphics2.3-forms\obj\Debug\Graphics2.3-forms.pdb
