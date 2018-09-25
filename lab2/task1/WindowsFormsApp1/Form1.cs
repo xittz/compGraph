@@ -40,6 +40,7 @@ namespace WindowsFormsApp1
             p.Image = image2;
         }
 
+        /*
         int calcSaturation(Color color)
         {
             double minRgb = (double) Math.Min(color.R, Math.Min(color.G, color.B));
@@ -53,6 +54,7 @@ namespace WindowsFormsApp1
             return result;
            
         }
+        */
 
 
 
@@ -63,7 +65,7 @@ namespace WindowsFormsApp1
 
             for (int i = 0; i < p.Size.Width; i++)
                 for (int j = 0; j < p.Size.Height; j++)
-                    arr[this.calcSaturation(p.GetPixel(i, j))] += 1;
+                    arr[p.GetPixel(i, j).R] += 1;
 
             return arr;
         }
