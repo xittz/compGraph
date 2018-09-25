@@ -40,6 +40,22 @@ namespace WindowsFormsApp1
             p.Image = image2;
         }
 
+        int calcSaturation(Color color)
+        {
+            double minRgb = (double) Math.Min(color.R, Math.Min(color.G, color.B));
+            double maxRgb = (double) Math.Max(color.R, Math.Max(color.G, color.B));
+
+
+            if (maxRgb == 0) return 0;
+
+            int result = (int)Math.Ceiling((double)100 * (1 - (minRgb / (double) maxRgb)));
+            System.Console.WriteLine(color.B);
+            return result;
+           
+        }
+
+
+
         double[] saturationArray(Bitmap p)
         {
             Bitmap image2 = new Bitmap(p.Width, p.Height);
@@ -47,7 +63,7 @@ namespace WindowsFormsApp1
 
             for (int i = 0; i < p.Size.Width; i++)
                 for (int j = 0; j < p.Size.Height; j++)
-                    arr[p.GetPixel(i, j).R] += 1;
+                    arr[this.calcSaturation(p.GetPixel(i, j))] += 1;
 
             return arr;
         }

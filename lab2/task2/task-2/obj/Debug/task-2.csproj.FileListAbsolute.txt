@@ -25,3 +25,13 @@ C:\Users\Андрей\Desktop\lab2\cg\Task2\task-2\obj\Debug\task-2.csprojResolv
 C:\Users\Андрей\Desktop\lab2\cg\Task2\task-2\obj\Debug\task_2.Form1.resources
 C:\Users\Андрей\Desktop\lab2\cg\Task2\task-2\obj\Debug\task_2.Properties.Resources.resources
 C:\Users\Андрей\Desktop\lab2\cg\Task2\task-2\obj\Debug\task-2.csproj.GenerateResource.Cache
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task2\task-2\bin\Debug\task-2.exe.config
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task2\task-2\bin\Debug\task-2.exe
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task2\task-2\bin\Debug\task-2.pdb
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task2\task-2\obj\Debug\task-2.csprojAssemblyReference.cache
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task2\task-2\obj\Debug\task_2.Form1.resources
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task2\task-2\obj\Debug\task_2.Properties.Resources.resources
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task2\task-2\obj\Debug\task-2.csproj.GenerateResource.cache
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task2\task-2\obj\Debug\task-2.csproj.CoreCompileInputs.cache
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task2\task-2\obj\Debug\task-2.exe
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task2\task-2\obj\Debug\task-2.pdb

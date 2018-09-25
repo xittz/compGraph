@@ -35,3 +35,13 @@ C:\Users\Андрей\Desktop\lab2\cg\task1\WindowsFormsApp1\obj\Debug\task1.csp
 C:\Users\Андрей\Desktop\lab2\cg\task1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
 C:\Users\Андрей\Desktop\lab2\cg\task1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
 C:\Users\Андрей\Desktop\lab2\cg\task1\WindowsFormsApp1\obj\Debug\task1.csproj.GenerateResource.Cache
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task1\WindowsFormsApp1\obj\Debug\task1.csprojAssemblyReference.cache
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task1\WindowsFormsApp1\obj\Debug\task1.csproj.GenerateResource.cache
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task1\WindowsFormsApp1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\oleg\Documents\GitHub\compGraph\lab2\task1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

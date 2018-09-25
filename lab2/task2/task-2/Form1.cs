@@ -13,8 +13,11 @@ namespace task_2
 {
 	public partial class Form1 : Form
 	{
+
+        enum ColorType { RED, GREEN, BLUE };
+
 		private static ColorMatrix redMatrix = new ColorMatrix(new float[][] {
-				new float[] { 1, 1, 1, 0, 0 },
+				new float[] { 1, 0, 0, 0, 0 },
 				new float[] { 0, 0, 0, 0, 0 },
 				new float[] { 0, 0, 0, 0, 0 },
 				new float[] { 0, 0, 0, 1, 0 },
@@ -23,7 +26,7 @@ namespace task_2
    
 		private static ColorMatrix greenMatrix = new ColorMatrix(new float[][] {
 				new float[] { 0, 0, 0, 0, 0 },
-				new float[] { 1, 1, 1, 0, 0 },
+				new float[] { 0, 1, 0, 0, 0 },
 				new float[] { 0, 0, 0, 0, 0 },
 				new float[] { 0, 0, 0, 1, 0 },
 				new float[] { 0, 0, 0, 0, 1 }
@@ -32,7 +35,7 @@ namespace task_2
 		private static ColorMatrix blueMatrix = new ColorMatrix(new float[][] {
 				new float[] { 0, 0, 0, 0, 0 },
 				new float[] { 0, 0, 0, 0, 0 },
-				new float[] { 1, 1, 1, 0, 0 },
+				new float[] { 0, 0, 1, 0, 0 },
 				new float[] { 0, 0, 0, 1, 0 },
 				new float[] { 0, 0, 0, 0, 1 }
 			});
@@ -57,7 +60,7 @@ namespace task_2
 			return converted;
 		}
    
-		private static Bitmap Histogram(Bitmap image)
+		private static Bitmap Histogram(Bitmap image, ColorType colorType)
 		{
 			int[] colorDistribution = new int[256];
 			Bitmap histogram = new Bitmap(256, 256);
@@ -67,9 +70,23 @@ namespace task_2
 				for (int col = 0; col < image.Width; ++col)
 				{
 					Color c = image.GetPixel(col, row);
-					++colorDistribution[c.R];
-					if (colorDistribution[c.R] > max)
-                        max = colorDistribution[c.R];
+                    int colorValue = 0;
+                    switch(colorType)
+                    {
+                        case ColorType.RED:
+                            colorValue = c.R;
+                            break;
+                        case ColorType.GREEN:
+                            colorValue = c.G;
+                            break;
+                        case ColorType.BLUE:
+                            colorValue = c.B;
+                            break;
+                          
+                    }
+					++colorDistribution[colorValue];
+					if (colorDistribution[colorValue] > max)
+                        max = colorDistribution[colorValue];
 				}
 
 			for (int i = 0; i < 255; ++i)
@@ -106,19 +123,19 @@ namespace task_2
             {
                 var red = ConvertColor(bitmap, redMatrix);
                 pictureBox2.Image = red;
-                pictureBox3.Image = Histogram(red);
+                pictureBox3.Image = Histogram(red, ColorType.RED);
             }
             else if (radioButton2.Checked)
             {
                 var green = ConvertColor(bitmap, greenMatrix);
                 pictureBox2.Image = green;
-                pictureBox3.Image = Histogram(green);
+                pictureBox3.Image = Histogram(green, ColorType.GREEN);
             }
             else if (radioButton3.Checked)
             {
                 var blue = ConvertColor(bitmap, blueMatrix);
                 pictureBox2.Image = blue;
-                pictureBox3.Image = Histogram(blue);
+                pictureBox3.Image = Histogram(blue, ColorType.BLUE);
             }
         }
     }
