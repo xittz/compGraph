@@ -1,0 +1,10 @@
+C:\Users\oleg\source\repos\graphics32\graphics32\bin\Debug\graphics32.exe.config
+C:\Users\oleg\source\repos\graphics32\graphics32\bin\Debug\graphics32.exe
+C:\Users\oleg\source\repos\graphics32\graphics32\bin\Debug\graphics32.pdb
+C:\Users\oleg\source\repos\graphics32\graphics32\obj\Debug\graphics32.csprojAssemblyReference.cache
+C:\Users\oleg\source\repos\graphics32\graphics32\obj\Debug\graphics32.Form1.resources
+C:\Users\oleg\source\repos\graphics32\graphics32\obj\Debug\graphics32.Properties.Resources.resources
+C:\Users\oleg\source\repos\graphics32\graphics32\obj\Debug\graphics32.csproj.GenerateResource.cache
+C:\Users\oleg\source\repos\graphics32\graphics32\obj\Debug\graphics32.csproj.CoreCompileInputs.cache
+C:\Users\oleg\source\repos\graphics32\graphics32\obj\Debug\graphics32.exe
+C:\Users\oleg\source\repos\graphics32\graphics32\obj\Debug\graphics32.pdb
