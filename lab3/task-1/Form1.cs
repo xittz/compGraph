@@ -123,7 +123,7 @@ namespace task_1
                 xG = e.Location.X;
                 yG = e.Location.Y;
                 curPixel = (pictureBox1.Image as Bitmap).GetPixel(e.Location.X, e.Location.Y);
-                label2.Text = yG.ToString();
+                //label2.Text = yG.ToString();
             }
         }
                
