@@ -1,0 +1,16 @@
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab4\CG-04-affine-transformations\bin\Debug\affine-transformations.exe.config
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab4\CG-04-affine-transformations 2\bin\Debug\affine-transformations.exe.config
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab4\CG-04-affine-transformations\bin\Debug\affine-transformations.exe
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab4\CG-04-affine-transformations\bin\Debug\affine-transformations.pdb
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab4\CG-04-affine-transformations\obj\Debug\affine-transformations.csprojResolveAssemblyReference.cache
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab4\CG-04-affine-transformations\obj\Debug\affine_transformations.Form1.resources
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab4\CG-04-affine-transformations\obj\Debug\affine_transformations.Properties.Resources.resources
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab4\CG-04-affine-transformations\obj\Debug\affine-transformations.csproj.GenerateResource.Cache
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab4\CG-04-affine-transformations\obj\Debug\affine-transformations.exe
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab4\CG-04-affine-transformations\obj\Debug\affine-transformations.pdb
+C:\Users\Андрей\Desktop\lab4\CG-04-affine-transformations\bin\Debug\affine-transformations.exe.config
+C:\Users\Андрей\Desktop\lab4\CG-04-affine-transformations\obj\Debug\affine-transformations.exe
+C:\Users\Андрей\Desktop\lab4\CG-04-affine-transformations\obj\Debug\affine-transformations.pdb
+C:\Users\Андрей\Desktop\lab4\task-1\bin\Debug\affine-transformations.exe.config
+C:\Users\Андрей\Desktop\lab4\task-1\obj\Debug\affine-transformations.exe
+C:\Users\Андрей\Desktop\lab4\task-1\obj\Debug\affine-transformations.pdb
