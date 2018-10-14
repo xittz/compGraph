@@ -1,0 +1,18 @@
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab5\CG-05-fractals\BezierCurves\bin\Debug\BezierCurves.exe.config
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab5\CG-05-fractals\BezierCurves\bin\Debug\BezierCurves.exe
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab5\CG-05-fractals\BezierCurves\bin\Debug\BezierCurves.pdb
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab5\CG-05-fractals\BezierCurves\obj\Debug\BezierCurves.csprojResolveAssemblyReference.cache
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab5\CG-05-fractals\BezierCurves\obj\Debug\BezierCurves.Form1.resources
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab5\CG-05-fractals\BezierCurves\obj\Debug\BezierCurves.Properties.Resources.resources
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab5\CG-05-fractals\BezierCurves\obj\Debug\BezierCurves.csproj.GenerateResource.Cache
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab5\CG-05-fractals\BezierCurves\obj\Debug\BezierCurves.exe
+D:\MMCS\Учеба\7 семестр\Графика\Лабы\lab5\CG-05-fractals\BezierCurves\obj\Debug\BezierCurves.pdb
+C:\Users\Андрей\Desktop\lab5\CG-05-fractals\BezierCurves\bin\Debug\BezierCurves.exe.config
+C:\Users\Андрей\Desktop\lab5\CG-05-fractals\BezierCurves\bin\Debug\BezierCurves.exe
+C:\Users\Андрей\Desktop\lab5\CG-05-fractals\BezierCurves\bin\Debug\BezierCurves.pdb
+C:\Users\Андрей\Desktop\lab5\CG-05-fractals\BezierCurves\obj\Debug\BezierCurves.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\lab5\CG-05-fractals\BezierCurves\obj\Debug\BezierCurves.Form1.resources
+C:\Users\Андрей\Desktop\lab5\CG-05-fractals\BezierCurves\obj\Debug\BezierCurves.Properties.Resources.resources
+C:\Users\Андрей\Desktop\lab5\CG-05-fractals\BezierCurves\obj\Debug\BezierCurves.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\lab5\CG-05-fractals\BezierCurves\obj\Debug\BezierCurves.exe
+C:\Users\Андрей\Desktop\lab5\CG-05-fractals\BezierCurves\obj\Debug\BezierCurves.pdb
