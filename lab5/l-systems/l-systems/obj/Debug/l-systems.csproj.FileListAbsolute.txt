@@ -1,0 +1,9 @@
+D:\Graphics\l-systems\l-systems\bin\Debug\l-systems.exe.config
+D:\Graphics\l-systems\l-systems\bin\Debug\l-systems.exe
+D:\Graphics\l-systems\l-systems\bin\Debug\l-systems.pdb
+D:\Graphics\l-systems\l-systems\obj\Debug\l-systems.csprojResolveAssemblyReference.cache
+D:\Graphics\l-systems\l-systems\obj\Debug\l_systems.Form1.resources
+D:\Graphics\l-systems\l-systems\obj\Debug\l_systems.Properties.Resources.resources
+D:\Graphics\l-systems\l-systems\obj\Debug\l-systems.csproj.GenerateResource.Cache
+D:\Graphics\l-systems\l-systems\obj\Debug\l-systems.exe
+D:\Graphics\l-systems\l-systems\obj\Debug\l-systems.pdb
