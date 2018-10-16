@@ -1,0 +1,10 @@
+C:\Users\oleg\Desktop\Diamond-square\bin\Release\Diamond-square.exe.config
+C:\Users\oleg\Desktop\Diamond-square\bin\Release\Diamond-square.exe
+C:\Users\oleg\Desktop\Diamond-square\bin\Release\Diamond-square.pdb
+C:\Users\oleg\Desktop\Diamond-square\obj\Release\Diamond-square.csprojAssemblyReference.cache
+C:\Users\oleg\Desktop\Diamond-square\obj\Release\Diamond_square.Form1.resources
+C:\Users\oleg\Desktop\Diamond-square\obj\Release\Diamond_square.Properties.Resources.resources
+C:\Users\oleg\Desktop\Diamond-square\obj\Release\Diamond-square.csproj.GenerateResource.cache
+C:\Users\oleg\Desktop\Diamond-square\obj\Release\Diamond-square.csproj.CoreCompileInputs.cache
+C:\Users\oleg\Desktop\Diamond-square\obj\Release\Diamond-square.exe
+C:\Users\oleg\Desktop\Diamond-square\obj\Release\Diamond-square.pdb
