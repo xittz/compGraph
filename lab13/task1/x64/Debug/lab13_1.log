@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (lab13_1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+c:\graphics_last\opengl-master\graphics\lab13_1\main.cpp(109): warning C4305: аргумент: усечение из "double" в "GLclampf"
+c:\graphics_last\opengl-master\graphics\lab13_1\main.cpp(119): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\graphics_last\opengl-master\graphics\lab13_1\main.cpp(120): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\graphics_last\opengl-master\graphics\lab13_1\main.cpp(130): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\graphics_last\opengl-master\graphics\lab13_1\main.cpp(131): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\graphics_last\opengl-master\graphics\lab13_1\main.cpp(140): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\graphics_last\opengl-master\graphics\lab13_1\main.cpp(141): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\graphics_last\opengl-master\graphics\lab13_1\main.cpp(198): warning C4305: +=: усечение из "double" в "float"
+c:\graphics_last\opengl-master\graphics\lab13_1\main.cpp(200): warning C4305: -=: усечение из "double" в "float"
+c:\graphics_last\opengl-master\graphics\lab13_1\main.cpp(202): warning C4305: +=: усечение из "double" в "float"
+c:\graphics_last\opengl-master\graphics\lab13_1\main.cpp(204): warning C4305: -=: усечение из "double" в "float"
+c:\graphics_last\opengl-master\graphics\lab13_1\main.cpp(206): warning C4305: +=: усечение из "double" в "float"
+c:\graphics_last\opengl-master\graphics\lab13_1\main.cpp(208): warning C4305: -=: усечение из "double" в "float"
+  lab13_1.vcxproj -> C:\Graphics_LAST\OpenGl-master\Graphics\x64\Debug\task1.exe

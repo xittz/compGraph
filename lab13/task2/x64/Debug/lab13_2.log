@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (lab13_2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+c:\graphics_last\opengl-master\graphics\lab13_2\main.cpp(222): warning C4305: аргумент: усечение из "double" в "GLclampf"
+  lab13_2.vcxproj -> C:\Graphics_LAST\OpenGl-master\Graphics\x64\Debug\task2.exe
